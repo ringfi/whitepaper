@@ -15,4 +15,20 @@ Other protocols allow bonds that passively dilute your position and pass it on t
 
 ### Power
 
-Because APYs fluctuate in different protocols, it’s impossible to predict how many tokens you’ll receive during a given time frame. RingFi pays $RING holders a daily fixed rate of 0.02362% every 15min, which means an annual compound interest of 392,537%.\
+Because APYs fluctuate in different protocols, it’s impossible to predict how many tokens you’ll receive during a given time frame. RingFi pays $RING holders a daily fixed rate of 0.02362% every 15min, which means an annual compound interest of 392,537%.
+
+### wRing Composability&#x20;
+
+wRING or Wrapped $RING is a token that represents the **value** of $RING based on the latest index when you wrap and unwrap respectively.&#x20;
+
+Basically, the amount of wRING doesn’t increase over time, but its value does. Your $RING balance will increase every 15 minutes thanks to the automatic rebases. However, unlike your $RING balance, your wRING balance will not increase over time, but its value will. When wRING is unwrapped, you receive an amount of $RING based on the latest value of the ever-increasing index, so the total yield is the same. That means your wRING is compounding at the same exact rate as $RING thanks to some clever mathematics
+
+### Risk Free Notes NFTs
+
+RingFi RFNs are NFTs that are similar to a vault containing reward assets. These rewards are given to an RFN NFT and will be unlocked when the time period ends.
+
+To mint an RFN, a user must lock his wRING, and then he’ll receive an NFT. At the same time, the predefined rewards for that particular RFN will be locked and attached to this NFT. There will be multiple lock periods, like 15, 30, 90, and 180 days. The longer the lock period, the higher the rewards.
+
+These NFTs will also be tradable in market places. They will still contain their rewards when they are traded.Additionally, RFNs will increase RING token’s price floor because each RFN NFT that is minted will lock up a certain amount of wRING for a period of time.
+
+When the locked period ends, the NFT will be exchangeable for the initial amount of wRING locked for its purchase plus the rewards (BUSD + wRING).
