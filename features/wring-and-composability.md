@@ -4,7 +4,7 @@ description: wRING is an utility token.
 
 # 💹 wRING & Composability
 
-![](../.gitbook/assets/wring\_v1.png)
+![](../.gitbook/assets/wring\_small.png)
 
 **Contract**\
 ****0x59AE8c783eBCe3CC68ccE32C427128101fa4C405
