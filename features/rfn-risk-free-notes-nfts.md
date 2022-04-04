@@ -1,5 +1,7 @@
 # 🔰 RFN (Risk-Free Notes NFTs)
 
+![](../.gitbook/assets/nft.png)
+
 RingFi RFNs are NFTs that are similar to a vault containing reward assets. These rewards are given to an RFN NFT and will be unlocked when the time period ends.
 
 To mint an RFN, a user must lock his wRING, and then he’ll receive an NFT. At the same time, the predefined rewards for that particular RFN will be locked and attached to this NFT. There will be multiple lock periods, like 15, 30, 90, and 180 days. The longer the lock period, the higher the rewards.
