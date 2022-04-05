@@ -10,9 +10,9 @@ RingFi follows the steps of Titano and Libero but takes it one step further by r
 
 RIngFi protocol proudly deployed the world's first composable auto-staking token, which allow users to maximize profits, becoming the **next generation DeFi** release on the BSC, conceived to earn passive returns in the easiest and most sustainable way.&#x20;
 
-The token model behind is an experimental approach to ''The circular economy'' concept, consisting of an Auto-staking feature just by holding the token plus a fixed APY that is sustainable over time and backed by a reserve of funds.
+![](<.gitbook/assets/Ring\_3\_mika diagram.png>)
 
-![](<.gitbook/assets/RingFi General Operation Diagram.jpeg>)
+The token model behind is an experimental approach to ''The circular economy'' concept, consisting of an Auto-staking feature just by holding the token plus a fixed APY that is sustainable over time and backed by a reserve of funds.
 
 $RING token is powered by rebases, that reward holders with a 0.02362% every 15min. This means an annual compound interest of 392,537%. This APY is fixed and it is secured thanks to the 14% and 16% taxes with buys and sells respectively.&#x20;
 
