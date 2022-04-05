@@ -2,28 +2,41 @@
 
 Welcome to RingFi Select Airdrop in collaboration with CoinMarketCap.
 
-**Duration** | 16 Days (8 April 2022 to 23 April 2022) **Amount for Airdrop** | 11,000 RING worth +$50,000 **Number of Winners** | 500
+**Duration** | 16 Days (8 April 2022 to 23 April 2022) \
+**Amount for Airdrop** | 11,000 RING worth +$50,000 \
+**Number of Winners** | 500
 
-🎉 To Participate you must:
+{% hint style="info" %}
+All actions must be performed through CMC [**https://coinmarketcap.com/currencies/ring/**](https://coinmarketcap.com/currencies/ring/)****\
+****\
+****The current status is **pending**, please be patient until the campaing is approved.
+{% endhint %}
 
-**MANDATORY**
+## 🎉 To Participate you must:
 
-1️⃣ Add $RING to your Watchlist | 1 Ticket https://coinmarketcap.com/currencies/ring/
+**MANDATORY:**
 
-2️⃣ Follow these Twitter Accounts | 1 Ticket https://twitter.com/ringfiprotocol https://twitter.com/CoinMarketCap
+1️⃣ **Add $RING to your Watchlist** | 1 Ticket [https://coinmarketcap.com/currencies/ring/](https://coinmarketcap.com/currencies/ring/)
 
-3️⃣ Add RING/BNB to Favorites in Dextools | 1 Ticket https://www.dextools.io/app/bsc/pair-explorer/0x78e2b2e442af78bb48339f3c74e58106c98d590b
+2️⃣ **Follow these Twitter Accounts** | 1 Ticket \
+[https://twitter.com/ringfiprotocol \
+](https://twitter.com/ringfiprotocol)[https://twitter.com/CoinMarketCap](https://twitter.com/CoinMarketCap)
 
-4️⃣ Join RingFi Discord Server and say hi | 1 Ticket https://discord.gg/ringfi
+3️⃣ **Add RING/BNB to Favorites in Dextools** | 1 Ticket [https://www.dextools.io/app/bsc/pair-explorer/0x78e2b2e442af78bb48339f3c74e58106c98d590b](https://www.dextools.io/app/bsc/pair-explorer/0x78e2b2e442af78bb48339f3c74e58106c98d590b)
 
-5️⃣ Join RingFi Telegram Group and say hi | 1 Ticket https://t.me/ringfiofficial
+4️⃣ **Join RingFi Discord Server and say hi** | 1 Ticket \
+[https://discord.gg/ringfi](https://discord.gg/ringfi)
 
-6️⃣ RT Twitter Post | 1 Ticket https://twitter.com/ringfiprotocol/status/1511300464259866633
+5️⃣ **Join RingFi Telegram Group and say hi** | 1 Ticket \
+[https://t.me/ringfiofficial](https://t.me/ringfiofficial)
 
-7️⃣ Follow RingFi on Medium | 1 Ticket https://medium.com/@ringfi
+6️⃣ **RT Twitter Post** | 1 Ticket [https://twitter.com/ringfiprotocol/status/1511300464259866633](https://twitter.com/ringfiprotocol/status/1511300464259866633)
 
-**OPTIONAL**
+7️⃣ **Follow RingFi on Medium** | 1 Ticket \
+[https://medium.com/@ringfi](https://medium.com/@ringfi)
 
-⭐️ Buy and Hold 10 RING | 1 Ticket
+**OPTIONAL:**
 
-🌟 Buy and Hold 100 RING | 10 Tickets
+⭐️ [**Buy**](https://app.bogged.finance/bsc/swap?tokenIn=BNB\&tokenOut=0x021988d2c89b1A9Ff56641b2F247942358FF05c9) and Hold 10 RING | 1 Ticket
+
+🌟 [**Buy**](https://app.bogged.finance/bsc/swap?tokenIn=BNB\&tokenOut=0x021988d2c89b1A9Ff56641b2F247942358FF05c9) and Hold 100 RING | 10 Tickets
