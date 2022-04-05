@@ -33,7 +33,7 @@ We recommend to only interact with these contracts through our official dApp\
 0xDD3AF8892E54C0cf7F01A062Eb6B54c3183D53c7
 
 ****\
-**WRing Risk Free Fund:**                                                     0xc477463E356A2b638c3Ca17fdaC0F1838c301B3d
+**WRing Risk Free Fund:**                                                                                                                                                                                                                                            0xc477463E356A2b638c3Ca17fdaC0F1838c301B3d
 
 ****\
 **WRing Treasury Fund:**  \
@@ -45,30 +45,30 @@ We recommend to only interact with these contracts through our official dApp\
 
 
 
-**Risk-Free Note 15 Days (RFN15):**                       0x719d9834546a5D82f80A4879C43F8620564C9E72
+**Risk-Free Note 15 Days (RFN15):**                                               0x719d9834546a5D82f80A4879C43F8620564C9E72
 
 
 
-**Risk-Free Note 30 Days (RFN30):**                          0x40F9A62842A5677f3B741502cAffB1d0546b866C
+**Risk-Free Note 30 Days (RFN30):**                                                               0x40F9A62842A5677f3B741502cAffB1d0546b866C
 
 
 
-**Risk-Free Note 90 Days (RFN90):**                       0x092094687b8EDFC8ac776Dce305590b9e8Bc09C7
+**Risk-Free Note 90 Days (RFN90):**                                                 0x092094687b8EDFC8ac776Dce305590b9e8Bc09C7
 
 
 
-**Risk-Free Note 180 Days (RFN180):**                       0xacA4730C5ed5B11E2d134296DffD2e9BF3c27ff4
+**Risk-Free Note 180 Days (RFN180):**                                                                                                                                                                                0xacA4730C5ed5B11E2d134296DffD2e9BF3c27ff4
 
 ### Deprecated Contracts
 
 {% hint style="info" %}
-This contract are unused now and upgraded versions are running.
+This contract are unused now and upgraded versions are running on our dapp.
 {% endhint %}
 
-**Risk-Free Note 15 Days (RFN15):**                          0x90e169003dD514EE8968cDf815d484c09208A20d
+**Risk-Free Note 15 Days (RFN15):**                                                                                                                                                                                                          0x90e169003dD514EE8968cDf815d484c09208A20d
 
-**Risk-Free Note 30 Days (RFN30):**                       0x67386cbb144b64C5C80aC3499D0432d33F0829cD
+**Risk-Free Note 30 Days (RFN30):**                                                                                                                                                                                                       0x67386cbb144b64C5C80aC3499D0432d33F0829cD
 
-**Risk-Free Note 90 Days (RFN90):**                        0x78Fd99Ff5810776DB74e694D3a70606b832614c8
+**Risk-Free Note 90 Days (RFN90):**                                                                                                                                                                                                        0x78Fd99Ff5810776DB74e694D3a70606b832614c8
 
-**Risk-Free Note 180 Days (RFN180):**                        0xfaf7100BaAc939D6ff3b1F372539983D221De109
+**Risk-Free Note 180 Days (RFN180):**                                                                                                                                                                                                        0xfaf7100BaAc939D6ff3b1F372539983D221De109
