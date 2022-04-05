@@ -42,3 +42,33 @@ We recommend to only interact with these contracts through our official dApp\
 ****\
 **WRing Supply Control:** \
 0x85f9AcbE21cb7E016B1FeEfcdF29603F9Cc95c48
+
+
+
+**Risk-Free Note 15 Days (RFN15):**                       0x719d9834546a5D82f80A4879C43F8620564C9E72
+
+
+
+**Risk-Free Note 30 Days (RFN30):**                          0x40F9A62842A5677f3B741502cAffB1d0546b866C
+
+
+
+**Risk-Free Note 90 Days (RFN90):**                       0x092094687b8EDFC8ac776Dce305590b9e8Bc09C7
+
+
+
+**Risk-Free Note 180 Days (RFN180):**                       0xacA4730C5ed5B11E2d134296DffD2e9BF3c27ff4
+
+### Deprecated Contracts
+
+{% hint style="info" %}
+This contract are unused now and upgraded versions are running.
+{% endhint %}
+
+**Risk-Free Note 15 Days (RFN15):**                          0x90e169003dD514EE8968cDf815d484c09208A20d
+
+**Risk-Free Note 30 Days (RFN30):**                       0x67386cbb144b64C5C80aC3499D0432d33F0829cD
+
+**Risk-Free Note 90 Days (RFN90):**                        0x78Fd99Ff5810776DB74e694D3a70606b832614c8
+
+**Risk-Free Note 180 Days (RFN180):**                        0xfaf7100BaAc939D6ff3b1F372539983D221De109
