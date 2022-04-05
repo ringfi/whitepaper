@@ -13,7 +13,9 @@ wRING **Contract address**\
 **Chart**\
 ****[https://www.dextools.io/app/bsc/pair-explorer/0x78e2b2e442af78bb48339f3c74e58106c98d590b\
 ](https://www.dextools.io/app/bsc/pair-explorer/0x78e2b2e442af78bb48339f3c74e58106c98d590b)\
-[https://dexscreener.com/bsc/0x021988d2c89b1A9Ff56641b2F247942358FF05c9](https://dexscreener.com/bsc/0x021988d2c89b1A9Ff56641b2F247942358FF05c9)
+[https://dexscreener.com/bsc/0x021988d2c89b1A9Ff56641b2F247942358FF05c9](https://dexscreener.com/bsc/0x021988d2c89b1A9Ff56641b2F247942358FF05c9)\
+\
+[https://dex.guru/token/0x021988d2c89b1a9ff56641b2f247942358ff05c9-bsc](https://dex.guru/token/0x021988d2c89b1a9ff56641b2f247942358ff05c9-bsc)
 
 ***
 
