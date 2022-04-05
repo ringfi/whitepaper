@@ -2,7 +2,7 @@
 description: Welcome to RingFi Select Airdrop in collaboration with CoinMarketCap.
 ---
 
-# CMC Airdrop
+# 🎁 CMC Airdrop
 
 **Duration** | 16 Days (8 April 2022 to 23 April 2022) \
 **Amount for Airdrop** | 11,000 RING worth +$50,000 \
@@ -45,9 +45,9 @@ All actions must be performed through CMC [**https://coinmarketcap.com/currencie
 
 ## Terms
 
-\-Users must perform all tasks to be eligible for consideration for the airdrop.\
-\-Meeting the contest prerequisites does not guarantee success. \
-\-CoinMarketCap will only collect participants’ information (with consent) and list details of the airdrop campaign.\
-\-**RingFi is the solely responsible** for the selection and distribution of assets to the winners.
+\-Users must perform **all tasks** specified to be eligible for consideration for the airdrop.\
+\-Meeting the contest prerequisites **does not** guarantee success. \
+\-CoinMarketCap will **only** collect participants’ information (with consent) and list details of the airdrop campaign.\
+\-**RingFi is the solely responsible** for the **selection** and **distribution** of assets to the winners.
 
 \
