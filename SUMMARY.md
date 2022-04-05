@@ -18,7 +18,7 @@
 * [💱 Circular Economy](features/circular-economy.md)
 * [💍 APY Backing](features/apy-backing.md)
 * [📖 FAQ](features/faq.md)
-* [CMC Airdrop](features/cmc-airdrop.md)
+* [🎁 CMC Airdrop](features/cmc-airdrop.md)
 
 ## Tokenomics
 
