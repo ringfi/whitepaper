@@ -24,7 +24,7 @@ The tokenomics and features of $RING are meant to ensure the **project's sustain
 
 The competitive advantages of RingFi are its unique mechanics like auto-liquidity every 24h and the composability, thanks to the wRING, that allow users to yield farm and use it as collateral while still receiving rebases.
 
-About security standards, there are 2 **audit reports** ([RING](https://github.com/coinscope-co/audits/blob/main/ring/audit.pdf) and [wRING](https://github.com/coinscope-co/audits/blob/main/wring/audit.pdf)) performed by CyberScope, the team has KYC'd to pinksale and locked liquidity 100 years.&#x20;
+About security standards, there are 3 **audit reports** ([RING](https://github.com/coinscope-co/audits/blob/main/ring/audit.pdf), [wRING](https://github.com/coinscope-co/audits/blob/main/wring/audit.pdf) and [RFN NFTs](features/rfn-risk-free-notes-nfts.md)) performed by CyberScope, the team has KYC'd to pinksale and locked liquidity 100 years.&#x20;
 
 Feel free to reach the team on Discord if you have any questions.\
 [https://discord.gg/ringfi](https://discord.gg/ringfi)
