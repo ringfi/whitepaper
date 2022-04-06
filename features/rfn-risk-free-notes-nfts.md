@@ -4,6 +4,10 @@
 
 RingFi RFNs are NFTs that are similar to a vault containing reward assets. These rewards are given to an RFN NFT and will be unlocked when the time period ends.
 
+{% hint style="info" %}
+RFN Launch is scheduled for Thursday, April 7, 2022 12:00 AM
+{% endhint %}
+
 To mint an RFN, a user must lock his wRING, and then he’ll receive an NFT. At the same time, the predefined rewards for that particular RFN will be locked and attached to this NFT. There will be multiple lock periods, like 15, 30, 90, and 180 days. The longer the lock period, the higher the rewards.
 
 These NFTs will also be tradable in market places. They will still contain their rewards when they are traded.Additionally, RFNs will increase RING token’s price floor because each RFN NFT that is minted will lock up a certain amount of wRING for a period of time.
