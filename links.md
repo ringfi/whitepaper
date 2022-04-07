@@ -17,6 +17,19 @@ wRING **Contract address**\
 \
 [https://dex.guru/token/0x021988d2c89b1a9ff56641b2f247942358ff05c9-bsc](https://dex.guru/token/0x021988d2c89b1a9ff56641b2f247942358ff05c9-bsc)
 
+
+
+**Risk-Free Note 15 Days (RFN15):**                        \
+[https://bscscan.com/address/0x719d9834546a5D82f80A4879C43F8620564C9E72](https://bscscan.com/address/0x719d9834546a5D82f80A4879C43F8620564C9E72)
+
+**Risk-Free Note 30 Days (RFN30):**                        \
+[https://bscscan.com/address/0x40F9A62842A5677f3B741502cAffB1d0546b866C](https://bscscan.com/address/0x40F9A62842A5677f3B741502cAffB1d0546b866C)
+
+**Risk-Free Note 90 Days (RFN90):**                        [\
+](https://bscscan.com/address/0x092094687b8EDFC8ac776Dce305590b9e8Bc09C7)[https://bscscan.com/address/0x092094687b8EDFC8ac776Dce305590b9e8Bc09C7](https://bscscan.com/address/0x092094687b8EDFC8ac776Dce305590b9e8Bc09C7)
+
+**Risk-Free Note 180 Days (RFN180):**                                                                                                                                                                                [https://bscscan.com/address/0xacA4730C5ed5B11E2d134296DffD2e9BF3c27ff4](https://bscscan.com/address/0xacA4730C5ed5B11E2d134296DffD2e9BF3c27ff4)
+
 ***
 
 **Website** \
