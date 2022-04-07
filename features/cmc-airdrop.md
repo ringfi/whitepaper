@@ -11,7 +11,7 @@ description: Welcome to RingFi Select Airdrop in collaboration with CoinMarketCa
 {% hint style="info" %}
 All actions must be performed through CMC [**https://coinmarketcap.com/currencies/ring/**](https://coinmarketcap.com/currencies/ring/)****\
 ****\
-****The current status is **pending**, please be patient until the campaing is approved.
+****The current status is **pending**, please be patient until the campaign is approved.
 {% endhint %}
 
 ## 🎉 To Participate you must:
